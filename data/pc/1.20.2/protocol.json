@@ -2581,7 +2581,7 @@
                 {
                   "compareTo": "isEntity",
                   "fields": {
-                    "true": "string"
+                    "true": "varint"
                   },
                   "default": "void"
                 }
